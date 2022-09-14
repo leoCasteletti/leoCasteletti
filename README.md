@@ -1,4 +1,4 @@
-## Olá, seja bem-Vindo(a) ao meu perfil Git. Sou o Leonardo Casteletti, estudante iniciante na área de programação. 👋
+## Olá, seja bem-vindo(a) ao meu perfil Git. Sou o Leonardo Casteletti, estudante iniciante na área de programação. 👋
 
 <div align="center">
   <a href="https://github.com/leoCasteletti">
