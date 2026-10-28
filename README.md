@@ -1,9 +1,8 @@
 ## Leonardo Casteletti
 
-Analista de TI na **FACCHINI S/A**, em Votuporanga/SP.
-Trabalho com **gestão de acessos SAP S/4HANA** e **desenvolvimento web em PHP**.
+Analista de TI. Trabalho com **gestão de acessos SAP S/4HANA** e **desenvolvimento web em PHP**.
 
-Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido o tempo entre o time de Basis Security e sistemas internos.
+Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido o tempo entre segurança SAP e sistemas internos.
 
 ### O que eu faço
 
@@ -42,7 +41,7 @@ Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido
 
 | Projeto | Descrição |
 |---|---|
-| [sistema-vendas-php](https://github.com/leoCasteletti/sistema-vendas-php) | CRUD de clientes, produtos e pedidos em PHP + MySQL |
+| [sistema-vendas-php](https://github.com/leoCasteletti/sistema-vendas-php) | Vendas com baixa de estoque. PHP, PDO e MySQL, com testes |
 | [jogoLogica](https://github.com/leoCasteletti/jogoLogica) | Windows Forms + SQL Server com Dapper, em camadas |
 | [csharp-poo](https://github.com/leoCasteletti/csharp-poo) | Exercícios de orientação a objetos em C# |
 | [Target-Sistemas](https://github.com/leoCasteletti/Target-Sistemas) | Teste técnico de processo seletivo em C# |
@@ -59,8 +58,9 @@ Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido
 ### Formação
 
 - Ciência da Computação — Anhembi Morumbi (em andamento)
-- Técnico em Análise e Desenvolvimento de Sistemas — SENAI Votuporanga
+- Engenharia da Computação — Unifev (4 anos cursados)
+- Técnico em Análise e Desenvolvimento de Sistemas — SENAI
 
 ### Contato
 
-[LinkedIn](https://linkedin.com/in/leonardocasteletti) · leonardo.casteletti@gmail.com
+[LinkedIn](https://linkedin.com/in/leonardocasteletti)
