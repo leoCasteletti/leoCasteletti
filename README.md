@@ -34,6 +34,8 @@ Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido
 |---|---|
 | [aradsat-site](https://github.com/leoCasteletti/aradsat-site) | Site da Aradsat Rastreamento, com simuladores interativos. [Ver no ar](https://leocasteletti.github.io/aradsat-site/) |
 | [verificador-sod](https://github.com/leoCasteletti/verificador-sod) | Aponta conflitos de segregação de funções em acessos SAP. PHP |
+| [estoque-ti](https://github.com/leoCasteletti/estoque-ti) | Controle de estoque do almoxarifado de TI, com histórico e estoque mínimo. PHP |
+| [guia-diagnostico](https://github.com/leoCasteletti/guia-diagnostico) | Base de consulta do suporte, funciona offline. [Ver no ar](https://leocasteletti.github.io/guia-diagnostico/) |
 | [separador-nomes](https://github.com/leoCasteletti/separador-nomes) | Separa nome e sobrenome com regras brasileiras, para cargas do AD. PHP |
 
 **Estudos e curso técnico**
@@ -45,7 +47,7 @@ Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido
 | [csharp-poo](https://github.com/leoCasteletti/csharp-poo) | Exercícios de orientação a objetos em C# |
 | [Target-Sistemas](https://github.com/leoCasteletti/Target-Sistemas) | Teste técnico de processo seletivo em C# |
 | [jogo-da-forca](https://github.com/leoCasteletti/jogo-da-forca) | Jogo da forca em C |
-| [site-barbearia](https://github.com/leoCasteletti/site-barbearia) | Primeiro site estático, HTML e CSS |
+| [site-barbearia](https://github.com/leoCasteletti/site-barbearia) | Primeiro site estático, HTML e CSS. [Ver no ar](https://leocasteletti.github.io/site-barbearia/) |
 | [aulasSenai_2022](https://github.com/leoCasteletti/aulasSenai_2022) | Arquivo completo do curso técnico |
 
 ### Certificações
