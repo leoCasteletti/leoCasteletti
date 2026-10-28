@@ -28,11 +28,25 @@ Comecei como jovem aprendiz no suporte, passei pela infraestrutura e hoje divido
 
 ### Projetos
 
+**Em destaque**
+
 | Projeto | Descrição |
 |---|---|
-| [aulasSenai_2022](https://github.com/leoCasteletti/aulasSenai_2022) | Curso técnico SENAI: C, C++, C#, JavaScript, PHP MVC, MySQL |
+| [aradsat-site](https://github.com/leoCasteletti/aradsat-site) | Site da Aradsat Rastreamento, com simuladores interativos. [Ver no ar](https://leocasteletti.github.io/aradsat-site/) |
+| [verificador-sod](https://github.com/leoCasteletti/verificador-sod) | Aponta conflitos de segregação de funções em acessos SAP. PHP |
+| [separador-nomes](https://github.com/leoCasteletti/separador-nomes) | Separa nome e sobrenome com regras brasileiras, para cargas do AD. PHP |
+
+**Estudos e curso técnico**
+
+| Projeto | Descrição |
+|---|---|
+| [sistema-vendas-php](https://github.com/leoCasteletti/sistema-vendas-php) | CRUD de clientes, produtos e pedidos em PHP + MySQL |
 | [jogoLogica](https://github.com/leoCasteletti/jogoLogica) | Windows Forms + SQL Server com Dapper, em camadas |
+| [csharp-poo](https://github.com/leoCasteletti/csharp-poo) | Exercícios de orientação a objetos em C# |
 | [Target-Sistemas](https://github.com/leoCasteletti/Target-Sistemas) | Teste técnico de processo seletivo em C# |
+| [jogo-da-forca](https://github.com/leoCasteletti/jogo-da-forca) | Jogo da forca em C |
+| [site-barbearia](https://github.com/leoCasteletti/site-barbearia) | Primeiro site estático, HTML e CSS |
+| [aulasSenai_2022](https://github.com/leoCasteletti/aulasSenai_2022) | Arquivo completo do curso técnico |
 
 ### Certificações
 
